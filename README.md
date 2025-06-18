@@ -4,10 +4,15 @@ This is a Mini Project built using Spring Boot MVC, which demonstrates the imple
 
 🚀 Features
 🔹 Add new records
+
 🔹 View all records
+
 🔹 Update existing records
+
 🔹 Delete records
+
 🔹 Validations for form input
+
 🔹 Clean and modular MVC structure
 
 🛠️ Tech Stack
