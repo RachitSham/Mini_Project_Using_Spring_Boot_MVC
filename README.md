@@ -1,6 +1,7 @@
 # Mini_Project_Using_Spring_Boot_MVC
 
-This is a Mini Project built using Spring Boot MVC, which demonstrates the implementation of CRUD (Create, Read, Update, Delete) operations on a simple entity. The project follows the MVC (Model-View-Controller) architecture and uses JSP with JSTL as the view technology.
+This is a Mini Project built using Spring Boot MVC, which demonstrates the implementation of CRUD (Create, Read, Update, Delete) operations on a simple entity.
+The project follows the MVC (Model-View-Controller) architecture and uses JSP with JSTL as the view technology.
 
 🚀 Features
 
@@ -39,4 +40,5 @@ This is a Mini Project built using Spring Boot MVC, which demonstrates the imple
 🔹 Service – Contains business logic.
 
 🔹 Controller – Handles web requests and maps to appropriate views.
+
 🔹 View – JSP pages to interact with the user.
